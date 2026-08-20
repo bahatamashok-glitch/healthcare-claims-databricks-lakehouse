@@ -1,0 +1,16 @@
+diagnosis_id,diagnosis_code,diagnosis_name,diagnosis_category
+D001,I10,Cardiovascular Diagnosis I10,Cardiovascular
+D002,I25.10,Cardiovascular Diagnosis I25.10,Cardiovascular
+D003,I48.91,Cardiovascular Diagnosis I48.91,Cardiovascular
+D004,E11.9,Diabetes Diagnosis E11.9,Diabetes
+D005,E11.65,Diabetes Diagnosis E11.65,Diabetes
+D006,E10.9,Diabetes Diagnosis E10.9,Diabetes
+D007,J45.909,Respiratory Diagnosis J45.909,Respiratory
+D008,J44.9,Respiratory Diagnosis J44.9,Respiratory
+D009,J18.9,Respiratory Diagnosis J18.9,Respiratory
+D010,M54.5,Musculoskeletal Diagnosis M54.5,Musculoskeletal
+D011,M17.11,Musculoskeletal Diagnosis M17.11,Musculoskeletal
+D012,M25.561,Musculoskeletal Diagnosis M25.561,Musculoskeletal
+D013,Z00.00,Preventive Diagnosis Z00.00,Preventive
+D014,Z23,Preventive Diagnosis Z23,Preventive
+D015,Z01.419,Preventive Diagnosis Z01.419,Preventive

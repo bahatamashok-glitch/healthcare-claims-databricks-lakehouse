@@ -1,0 +1,501 @@
+provider_id,provider_name,provider_type,specialty,city,state,network_status
+P1000,Provider_0001,Hospital,Orthopedics,San Diego,CA,In-Network
+P1001,Provider_0002,Clinic,Cardiology,Tacoma,WA,In-Network
+P1002,Provider_0003,Physician,Neurology,Arlington,VA,In-Network
+P1003,Provider_0004,Clinic,Orthopedics,San Diego,CA,In-Network
+P1004,Provider_0005,Clinic,Orthopedics,Tempe,AZ,In-Network
+P1005,Provider_0006,Clinic,Emergency Medicine,Charlotte,NC,In-Network
+P1006,Provider_0007,Specialist Center,Dermatology,Mesa,AZ,In-Network
+P1007,Provider_0008,Physician,Cardiology,Orlando,FL,In-Network
+P1008,Provider_0009,Clinic,Cardiology,Arlington,VA,In-Network
+P1009,Provider_0010,Specialist Center,Pediatrics,Dallas,TX,In-Network
+P1010,Provider_0011,Physician,Cardiology,Savannah,GA,In-Network
+P1011,Provider_0012,Hospital,Primary Care,Phoenix,AZ,Out-of-Network
+P1012,Provider_0013,Specialist Center,Neurology,Dallas,TX,In-Network
+P1013,Provider_0014,Physician,Neurology,Atlanta,GA,In-Network
+P1014,Provider_0015,Clinic,Pediatrics,Seattle,WA,In-Network
+P1015,Provider_0016,Clinic,Primary Care,Durham,NC,In-Network
+P1016,Provider_0017,Specialist Center,Dermatology,Durham,NC,In-Network
+P1017,Provider_0018,Hospital,Pediatrics,Houston,TX,In-Network
+P1018,Provider_0019,Specialist Center,Dermatology,Aurora,IL,In-Network
+P1019,Provider_0020,Hospital,Pediatrics,Seattle,WA,In-Network
+P1020,Provider_0021,Hospital,Neurology,Atlanta,GA,In-Network
+P1021,Provider_0022,Specialist Center,Emergency Medicine,Norfolk,VA,Out-of-Network
+P1022,Provider_0023,Specialist Center,Dermatology,Norfolk,VA,In-Network
+P1023,Provider_0024,Specialist Center,Primary Care,Richmond,VA,In-Network
+P1024,Provider_0025,Physician,Oncology,Rochester,NY,Out-of-Network
+P1025,Provider_0026,Physician,Neurology,Raleigh,NC,In-Network
+P1026,Provider_0027,Specialist Center,Emergency Medicine,Aurora,IL,In-Network
+P1027,Provider_0028,Physician,Oncology,Tacoma,WA,In-Network
+P1028,Provider_0029,Physician,Orthopedics,Miami,FL,In-Network
+P1029,Provider_0030,Hospital,Dermatology,Tampa,FL,In-Network
+P1030,Provider_0031,Clinic,Oncology,Savannah,GA,In-Network
+P1031,Provider_0032,Clinic,Neurology,Austin,TX,In-Network
+P1032,Provider_0033,Physician,Orthopedics,San Diego,CA,In-Network
+P1033,Provider_0034,Hospital,Oncology,Raleigh,NC,In-Network
+P1034,Provider_0035,Specialist Center,Orthopedics,Buffalo,NY,In-Network
+P1035,Provider_0036,Hospital,Emergency Medicine,Augusta,GA,In-Network
+P1036,Provider_0037,Hospital,Emergency Medicine,San Diego,CA,In-Network
+P1037,Provider_0038,Clinic,Neurology,San Diego,CA,In-Network
+P1038,Provider_0039,Specialist Center,Orthopedics,Raleigh,NC,In-Network
+P1039,Provider_0040,Clinic,Neurology,Charlotte,NC,In-Network
+P1040,Provider_0041,Physician,Emergency Medicine,San Jose,CA,In-Network
+P1041,Provider_0042,Clinic,Cardiology,San Diego,CA,In-Network
+P1042,Provider_0043,Hospital,Neurology,Augusta,GA,In-Network
+P1043,Provider_0044,Specialist Center,Orthopedics,Aurora,IL,In-Network
+P1044,Provider_0045,Specialist Center,Dermatology,Miami,FL,In-Network
+P1045,Provider_0046,Specialist Center,Neurology,Charlotte,NC,In-Network
+P1046,Provider_0047,Clinic,Emergency Medicine,Charlotte,NC,In-Network
+P1047,Provider_0048,Clinic,Neurology,Phoenix,AZ,In-Network
+P1048,Provider_0049,Clinic,Dermatology,Savannah,GA,Out-of-Network
+P1049,Provider_0050,Physician,Primary Care,Durham,NC,Out-of-Network
+P1050,Provider_0051,Clinic,Primary Care,San Diego,CA,In-Network
+P1051,Provider_0052,Physician,Orthopedics,Charlotte,NC,In-Network
+P1052,Provider_0053,Clinic,Primary Care,Phoenix,AZ,In-Network
+P1053,Provider_0054,Physician,Oncology,Aurora,IL,In-Network
+P1054,Provider_0055,Hospital,Primary Care,Raleigh,NC,In-Network
+P1055,Provider_0056,Hospital,Emergency Medicine,Tempe,AZ,In-Network
+P1056,Provider_0057,Specialist Center,Cardiology,Tempe,AZ,In-Network
+P1057,Provider_0058,Hospital,Primary Care,Augusta,GA,In-Network
+P1058,Provider_0059,Specialist Center,Oncology,Durham,NC,In-Network
+P1059,Provider_0060,Physician,Emergency Medicine,Phoenix,AZ,In-Network
+P1060,Provider_0061,Specialist Center,Neurology,Dallas,TX,In-Network
+P1061,Provider_0062,Hospital,Oncology,Augusta,GA,In-Network
+P1062,Provider_0063,Physician,Orthopedics,Tempe,AZ,In-Network
+P1063,Provider_0064,Specialist Center,Pediatrics,Atlanta,GA,In-Network
+P1064,Provider_0065,Physician,Oncology,Charlotte,NC,Out-of-Network
+P1065,Provider_0066,Physician,Orthopedics,Miami,FL,In-Network
+P1066,Provider_0067,Hospital,Orthopedics,Tempe,AZ,In-Network
+P1067,Provider_0068,Physician,Primary Care,Norfolk,VA,In-Network
+P1068,Provider_0069,Clinic,Emergency Medicine,Dallas,TX,In-Network
+P1069,Provider_0070,Hospital,Primary Care,Miami,FL,In-Network
+P1070,Provider_0071,Specialist Center,Orthopedics,Aurora,IL,In-Network
+P1071,Provider_0072,Clinic,Emergency Medicine,Orlando,FL,In-Network
+P1072,Provider_0073,Hospital,Neurology,Seattle,WA,In-Network
+P1073,Provider_0074,Physician,Cardiology,Chicago,IL,In-Network
+P1074,Provider_0075,Specialist Center,Neurology,Arlington,VA,In-Network
+P1075,Provider_0076,Physician,Orthopedics,San Jose,CA,In-Network
+P1076,Provider_0077,Physician,Primary Care,Atlanta,GA,In-Network
+P1077,Provider_0078,Specialist Center,Oncology,Chicago,IL,In-Network
+P1078,Provider_0079,Specialist Center,Cardiology,Los Angeles,CA,Out-of-Network
+P1079,Provider_0080,Hospital,Emergency Medicine,Tempe,AZ,In-Network
+P1080,Provider_0081,Hospital,Emergency Medicine,Raleigh,NC,In-Network
+P1081,Provider_0082,Physician,Pediatrics,Spokane,WA,In-Network
+P1082,Provider_0083,Hospital,Neurology,Rochester,NY,In-Network
+P1083,Provider_0084,Clinic,Emergency Medicine,Seattle,WA,In-Network
+P1084,Provider_0085,Specialist Center,Oncology,Seattle,WA,In-Network
+P1085,Provider_0086,Physician,Primary Care,Tacoma,WA,In-Network
+P1086,Provider_0087,Clinic,Oncology,Tempe,AZ,In-Network
+P1087,Provider_0088,Clinic,Oncology,Buffalo,NY,In-Network
+P1088,Provider_0089,Specialist Center,Primary Care,Rochester,NY,In-Network
+P1089,Provider_0090,Hospital,Oncology,Charlotte,NC,Out-of-Network
+P1090,Provider_0091,Clinic,Orthopedics,Mesa,AZ,In-Network
+P1091,Provider_0092,Physician,Neurology,Rochester,NY,In-Network
+P1092,Provider_0093,Clinic,Cardiology,Atlanta,GA,In-Network
+P1093,Provider_0094,Specialist Center,Emergency Medicine,Charlotte,NC,In-Network
+P1094,Provider_0095,Hospital,Neurology,Augusta,GA,In-Network
+P1095,Provider_0096,Hospital,Dermatology,Miami,FL,In-Network
+P1096,Provider_0097,Physician,Primary Care,Spokane,WA,In-Network
+P1097,Provider_0098,Physician,Cardiology,Houston,TX,Out-of-Network
+P1098,Provider_0099,Physician,Orthopedics,Tempe,AZ,In-Network
+P1099,Provider_0100,Physician,Primary Care,Spokane,WA,In-Network
+P1100,Provider_0101,Physician,Emergency Medicine,Atlanta,GA,Out-of-Network
+P1101,Provider_0102,Clinic,Orthopedics,San Jose,CA,In-Network
+P1102,Provider_0103,Clinic,Pediatrics,Durham,NC,In-Network
+P1103,Provider_0104,Specialist Center,Emergency Medicine,Houston,TX,In-Network
+P1104,Provider_0105,Hospital,Pediatrics,New York,NY,In-Network
+P1105,Provider_0106,Clinic,Pediatrics,Austin,TX,In-Network
+P1106,Provider_0107,Physician,Cardiology,Augusta,GA,Out-of-Network
+P1107,Provider_0108,Specialist Center,Dermatology,Tacoma,WA,Out-of-Network
+P1108,Provider_0109,Physician,Emergency Medicine,Raleigh,NC,In-Network
+P1109,Provider_0110,Hospital,Neurology,Augusta,GA,In-Network
+P1110,Provider_0111,Physician,Neurology,Savannah,GA,Out-of-Network
+P1111,Provider_0112,Specialist Center,Pediatrics,Orlando,FL,In-Network
+P1112,Provider_0113,Specialist Center,Pediatrics,Norfolk,VA,In-Network
+P1113,Provider_0114,Specialist Center,Orthopedics,Richmond,VA,In-Network
+P1114,Provider_0115,Hospital,Dermatology,Buffalo,NY,In-Network
+P1115,Provider_0116,Clinic,Oncology,Norfolk,VA,In-Network
+P1116,Provider_0117,Clinic,Dermatology,Rochester,NY,In-Network
+P1117,Provider_0118,Specialist Center,Dermatology,Buffalo,NY,In-Network
+P1118,Provider_0119,Clinic,Oncology,Orlando,FL,Out-of-Network
+P1119,Provider_0120,Hospital,Neurology,Aurora,IL,In-Network
+P1120,Provider_0121,Physician,Neurology,Houston,TX,In-Network
+P1121,Provider_0122,Hospital,Pediatrics,San Jose,CA,Out-of-Network
+P1122,Provider_0123,Clinic,Neurology,Seattle,WA,In-Network
+P1123,Provider_0124,Hospital,Oncology,Chicago,IL,Out-of-Network
+P1124,Provider_0125,Physician,Dermatology,San Jose,CA,In-Network
+P1125,Provider_0126,Hospital,Pediatrics,Seattle,WA,In-Network
+P1126,Provider_0127,Clinic,Pediatrics,Savannah,GA,In-Network
+P1127,Provider_0128,Physician,Cardiology,Dallas,TX,In-Network
+P1128,Provider_0129,Clinic,Primary Care,New York,NY,In-Network
+P1129,Provider_0130,Physician,Oncology,Schaumburg,IL,In-Network
+P1130,Provider_0131,Specialist Center,Pediatrics,Tampa,FL,In-Network
+P1131,Provider_0132,Physician,Oncology,Austin,TX,In-Network
+P1132,Provider_0133,Clinic,Cardiology,Phoenix,AZ,In-Network
+P1133,Provider_0134,Specialist Center,Dermatology,Norfolk,VA,In-Network
+P1134,Provider_0135,Specialist Center,Cardiology,Augusta,GA,Out-of-Network
+P1135,Provider_0136,Clinic,Pediatrics,Schaumburg,IL,In-Network
+P1136,Provider_0137,Clinic,Oncology,Austin,TX,Out-of-Network
+P1137,Provider_0138,Hospital,Oncology,Buffalo,NY,In-Network
+P1138,Provider_0139,Clinic,Oncology,Los Angeles,CA,In-Network
+P1139,Provider_0140,Physician,Cardiology,Raleigh,NC,In-Network
+P1140,Provider_0141,Specialist Center,Emergency Medicine,Chicago,IL,Out-of-Network
+P1141,Provider_0142,Hospital,Orthopedics,Seattle,WA,In-Network
+P1142,Provider_0143,Hospital,Orthopedics,Charlotte,NC,In-Network
+P1143,Provider_0144,Hospital,Oncology,Durham,NC,In-Network
+P1144,Provider_0145,Specialist Center,Oncology,Augusta,GA,In-Network
+P1145,Provider_0146,Hospital,Primary Care,Spokane,WA,In-Network
+P1146,Provider_0147,Specialist Center,Pediatrics,Mesa,AZ,In-Network
+P1147,Provider_0148,Specialist Center,Cardiology,San Jose,CA,Out-of-Network
+P1148,Provider_0149,Hospital,Primary Care,Miami,FL,In-Network
+P1149,Provider_0150,Specialist Center,Oncology,Buffalo,NY,In-Network
+P1150,Provider_0151,Hospital,Neurology,Raleigh,NC,Out-of-Network
+P1151,Provider_0152,Clinic,Orthopedics,Durham,NC,In-Network
+P1152,Provider_0153,Physician,Orthopedics,Rochester,NY,Out-of-Network
+P1153,Provider_0154,Clinic,Primary Care,Houston,TX,In-Network
+P1154,Provider_0155,Physician,Orthopedics,Schaumburg,IL,In-Network
+P1155,Provider_0156,Specialist Center,Orthopedics,San Diego,CA,In-Network
+P1156,Provider_0157,Specialist Center,Emergency Medicine,Austin,TX,Out-of-Network
+P1157,Provider_0158,Hospital,Neurology,Miami,FL,Out-of-Network
+P1158,Provider_0159,Clinic,Pediatrics,Savannah,GA,In-Network
+P1159,Provider_0160,Clinic,Oncology,Raleigh,NC,In-Network
+P1160,Provider_0161,Specialist Center,Dermatology,Rochester,NY,Out-of-Network
+P1161,Provider_0162,Clinic,Primary Care,New York,NY,Out-of-Network
+P1162,Provider_0163,Physician,Neurology,Buffalo,NY,In-Network
+P1163,Provider_0164,Specialist Center,Cardiology,Schaumburg,IL,In-Network
+P1164,Provider_0165,Hospital,Cardiology,San Jose,CA,Out-of-Network
+P1165,Provider_0166,Hospital,Neurology,New York,NY,In-Network
+P1166,Provider_0167,Specialist Center,Oncology,Aurora,IL,In-Network
+P1167,Provider_0168,Specialist Center,Cardiology,Orlando,FL,Out-of-Network
+P1168,Provider_0169,Hospital,Neurology,Arlington,VA,In-Network
+P1169,Provider_0170,Physician,Orthopedics,Raleigh,NC,Out-of-Network
+P1170,Provider_0171,Clinic,Pediatrics,Chicago,IL,In-Network
+P1171,Provider_0172,Specialist Center,Primary Care,Spokane,WA,In-Network
+P1172,Provider_0173,Specialist Center,Primary Care,Houston,TX,In-Network
+P1173,Provider_0174,Physician,Orthopedics,Richmond,VA,In-Network
+P1174,Provider_0175,Hospital,Dermatology,Raleigh,NC,In-Network
+P1175,Provider_0176,Specialist Center,Oncology,Rochester,NY,In-Network
+P1176,Provider_0177,Physician,Pediatrics,San Diego,CA,In-Network
+P1177,Provider_0178,Specialist Center,Cardiology,Spokane,WA,In-Network
+P1178,Provider_0179,Physician,Dermatology,Savannah,GA,Out-of-Network
+P1179,Provider_0180,Physician,Primary Care,Richmond,VA,In-Network
+P1180,Provider_0181,Hospital,Emergency Medicine,Mesa,AZ,In-Network
+P1181,Provider_0182,Clinic,Primary Care,Raleigh,NC,In-Network
+P1182,Provider_0183,Hospital,Emergency Medicine,Seattle,WA,In-Network
+P1183,Provider_0184,Physician,Oncology,Atlanta,GA,In-Network
+P1184,Provider_0185,Clinic,Emergency Medicine,Mesa,AZ,In-Network
+P1185,Provider_0186,Clinic,Pediatrics,Raleigh,NC,Out-of-Network
+P1186,Provider_0187,Hospital,Emergency Medicine,Mesa,AZ,In-Network
+P1187,Provider_0188,Hospital,Neurology,Augusta,GA,Out-of-Network
+P1188,Provider_0189,Specialist Center,Cardiology,Mesa,AZ,In-Network
+P1189,Provider_0190,Clinic,Primary Care,Durham,NC,In-Network
+P1190,Provider_0191,Physician,Primary Care,Augusta,GA,In-Network
+P1191,Provider_0192,Specialist Center,Cardiology,Augusta,GA,Out-of-Network
+P1192,Provider_0193,Specialist Center,Emergency Medicine,Dallas,TX,Out-of-Network
+P1193,Provider_0194,Specialist Center,Dermatology,Charlotte,NC,In-Network
+P1194,Provider_0195,Specialist Center,Pediatrics,Tempe,AZ,In-Network
+P1195,Provider_0196,Hospital,Pediatrics,Tampa,FL,In-Network
+P1196,Provider_0197,Clinic,Pediatrics,Norfolk,VA,In-Network
+P1197,Provider_0198,Specialist Center,Primary Care,Los Angeles,CA,Out-of-Network
+P1198,Provider_0199,Clinic,Neurology,Charlotte,NC,Out-of-Network
+P1199,Provider_0200,Physician,Orthopedics,Richmond,VA,In-Network
+P1200,Provider_0201,Clinic,Dermatology,Spokane,WA,In-Network
+P1201,Provider_0202,Hospital,Primary Care,Durham,NC,In-Network
+P1202,Provider_0203,Clinic,Oncology,Tacoma,WA,In-Network
+P1203,Provider_0204,Physician,Dermatology,Mesa,AZ,In-Network
+P1204,Provider_0205,Physician,Oncology,Richmond,VA,In-Network
+P1205,Provider_0206,Specialist Center,Emergency Medicine,Miami,FL,In-Network
+P1206,Provider_0207,Physician,Emergency Medicine,Arlington,VA,In-Network
+P1207,Provider_0208,Specialist Center,Neurology,Richmond,VA,In-Network
+P1208,Provider_0209,Hospital,Dermatology,Augusta,GA,In-Network
+P1209,Provider_0210,Hospital,Primary Care,Mesa,AZ,Out-of-Network
+P1210,Provider_0211,Hospital,Primary Care,Spokane,WA,Out-of-Network
+P1211,Provider_0212,Clinic,Cardiology,Aurora,IL,In-Network
+P1212,Provider_0213,Physician,Pediatrics,Arlington,VA,In-Network
+P1213,Provider_0214,Physician,Neurology,New York,NY,In-Network
+P1214,Provider_0215,Physician,Emergency Medicine,Tempe,AZ,In-Network
+P1215,Provider_0216,Specialist Center,Cardiology,Durham,NC,In-Network
+P1216,Provider_0217,Specialist Center,Neurology,Augusta,GA,In-Network
+P1217,Provider_0218,Hospital,Oncology,Rochester,NY,Out-of-Network
+P1218,Provider_0219,Physician,Oncology,Dallas,TX,Out-of-Network
+P1219,Provider_0220,Clinic,Orthopedics,Durham,NC,In-Network
+P1220,Provider_0221,Clinic,Pediatrics,Chicago,IL,In-Network
+P1221,Provider_0222,Hospital,Pediatrics,Orlando,FL,In-Network
+P1222,Provider_0223,Specialist Center,Neurology,Tempe,AZ,In-Network
+P1223,Provider_0224,Specialist Center,Oncology,New York,NY,In-Network
+P1224,Provider_0225,Specialist Center,Cardiology,Aurora,IL,In-Network
+P1225,Provider_0226,Hospital,Primary Care,Rochester,NY,In-Network
+P1226,Provider_0227,Hospital,Pediatrics,Tampa,FL,In-Network
+P1227,Provider_0228,Physician,Primary Care,Miami,FL,In-Network
+P1228,Provider_0229,Physician,Oncology,Aurora,IL,Out-of-Network
+P1229,Provider_0230,Physician,Orthopedics,Austin,TX,In-Network
+P1230,Provider_0231,Clinic,Oncology,Savannah,GA,In-Network
+P1231,Provider_0232,Clinic,Primary Care,Arlington,VA,In-Network
+P1232,Provider_0233,Physician,Oncology,Tampa,FL,In-Network
+P1233,Provider_0234,Clinic,Pediatrics,Raleigh,NC,In-Network
+P1234,Provider_0235,Clinic,Neurology,Seattle,WA,In-Network
+P1235,Provider_0236,Specialist Center,Neurology,Miami,FL,In-Network
+P1236,Provider_0237,Specialist Center,Primary Care,Durham,NC,In-Network
+P1237,Provider_0238,Hospital,Primary Care,Chicago,IL,In-Network
+P1238,Provider_0239,Specialist Center,Emergency Medicine,San Jose,CA,In-Network
+P1239,Provider_0240,Physician,Emergency Medicine,Austin,TX,In-Network
+P1240,Provider_0241,Specialist Center,Orthopedics,Spokane,WA,Out-of-Network
+P1241,Provider_0242,Clinic,Dermatology,Raleigh,NC,In-Network
+P1242,Provider_0243,Clinic,Pediatrics,Dallas,TX,In-Network
+P1243,Provider_0244,Physician,Cardiology,Augusta,GA,In-Network
+P1244,Provider_0245,Physician,Dermatology,Austin,TX,In-Network
+P1245,Provider_0246,Specialist Center,Orthopedics,San Jose,CA,In-Network
+P1246,Provider_0247,Specialist Center,Pediatrics,Aurora,IL,In-Network
+P1247,Provider_0248,Specialist Center,Neurology,Augusta,GA,In-Network
+P1248,Provider_0249,Hospital,Cardiology,Houston,TX,In-Network
+P1249,Provider_0250,Hospital,Emergency Medicine,San Jose,CA,In-Network
+P1250,Provider_0251,Physician,Dermatology,Augusta,GA,In-Network
+P1251,Provider_0252,Specialist Center,Neurology,Savannah,GA,In-Network
+P1252,Provider_0253,Clinic,Primary Care,Buffalo,NY,In-Network
+P1253,Provider_0254,Hospital,Neurology,Schaumburg,IL,In-Network
+P1254,Provider_0255,Physician,Dermatology,Spokane,WA,In-Network
+P1255,Provider_0256,Hospital,Orthopedics,Dallas,TX,In-Network
+P1256,Provider_0257,Specialist Center,Primary Care,Savannah,GA,In-Network
+P1257,Provider_0258,Clinic,Primary Care,Tacoma,WA,In-Network
+P1258,Provider_0259,Clinic,Emergency Medicine,Austin,TX,In-Network
+P1259,Provider_0260,Physician,Emergency Medicine,Savannah,GA,In-Network
+P1260,Provider_0261,Hospital,Dermatology,Chicago,IL,Out-of-Network
+P1261,Provider_0262,Specialist Center,Primary Care,Augusta,GA,In-Network
+P1262,Provider_0263,Specialist Center,Pediatrics,Tempe,AZ,Out-of-Network
+P1263,Provider_0264,Clinic,Cardiology,Tempe,AZ,In-Network
+P1264,Provider_0265,Clinic,Pediatrics,Seattle,WA,In-Network
+P1265,Provider_0266,Specialist Center,Primary Care,New York,NY,In-Network
+P1266,Provider_0267,Specialist Center,Dermatology,Rochester,NY,Out-of-Network
+P1267,Provider_0268,Hospital,Orthopedics,Miami,FL,In-Network
+P1268,Provider_0269,Physician,Emergency Medicine,Phoenix,AZ,In-Network
+P1269,Provider_0270,Hospital,Neurology,New York,NY,Out-of-Network
+P1270,Provider_0271,Hospital,Emergency Medicine,Charlotte,NC,In-Network
+P1271,Provider_0272,Specialist Center,Dermatology,San Jose,CA,In-Network
+P1272,Provider_0273,Hospital,Primary Care,Charlotte,NC,In-Network
+P1273,Provider_0274,Hospital,Cardiology,Houston,TX,In-Network
+P1274,Provider_0275,Hospital,Pediatrics,Savannah,GA,In-Network
+P1275,Provider_0276,Clinic,Cardiology,Miami,FL,In-Network
+P1276,Provider_0277,Physician,Pediatrics,Orlando,FL,In-Network
+P1277,Provider_0278,Physician,Neurology,Savannah,GA,In-Network
+P1278,Provider_0279,Clinic,Dermatology,Richmond,VA,In-Network
+P1279,Provider_0280,Specialist Center,Cardiology,Spokane,WA,In-Network
+P1280,Provider_0281,Specialist Center,Cardiology,Rochester,NY,In-Network
+P1281,Provider_0282,Physician,Pediatrics,Rochester,NY,In-Network
+P1282,Provider_0283,Physician,Dermatology,Charlotte,NC,In-Network
+P1283,Provider_0284,Specialist Center,Pediatrics,New York,NY,Out-of-Network
+P1284,Provider_0285,Hospital,Pediatrics,Tempe,AZ,In-Network
+P1285,Provider_0286,Physician,Oncology,Norfolk,VA,Out-of-Network
+P1286,Provider_0287,Hospital,Emergency Medicine,Aurora,IL,In-Network
+P1287,Provider_0288,Physician,Neurology,Buffalo,NY,In-Network
+P1288,Provider_0289,Clinic,Emergency Medicine,Dallas,TX,In-Network
+P1289,Provider_0290,Physician,Cardiology,Norfolk,VA,In-Network
+P1290,Provider_0291,Clinic,Oncology,Tampa,FL,In-Network
+P1291,Provider_0292,Hospital,Oncology,Dallas,TX,In-Network
+P1292,Provider_0293,Specialist Center,Primary Care,Spokane,WA,Out-of-Network
+P1293,Provider_0294,Hospital,Emergency Medicine,Richmond,VA,In-Network
+P1294,Provider_0295,Hospital,Dermatology,Tacoma,WA,Out-of-Network
+P1295,Provider_0296,Hospital,Oncology,Durham,NC,Out-of-Network
+P1296,Provider_0297,Clinic,Oncology,Rochester,NY,In-Network
+P1297,Provider_0298,Physician,Emergency Medicine,Miami,FL,Out-of-Network
+P1298,Provider_0299,Specialist Center,Pediatrics,Los Angeles,CA,In-Network
+P1299,Provider_0300,Hospital,Pediatrics,Seattle,WA,In-Network
+P1300,Provider_0301,Hospital,Orthopedics,Miami,FL,Out-of-Network
+P1301,Provider_0302,Hospital,Neurology,Raleigh,NC,In-Network
+P1302,Provider_0303,Clinic,Dermatology,Seattle,WA,In-Network
+P1303,Provider_0304,Clinic,Cardiology,Rochester,NY,In-Network
+P1304,Provider_0305,Clinic,Neurology,Spokane,WA,In-Network
+P1305,Provider_0306,Physician,Oncology,Schaumburg,IL,In-Network
+P1306,Provider_0307,Physician,Emergency Medicine,Houston,TX,In-Network
+P1307,Provider_0308,Hospital,Oncology,San Diego,CA,In-Network
+P1308,Provider_0309,Specialist Center,Cardiology,Orlando,FL,Out-of-Network
+P1309,Provider_0310,Clinic,Neurology,Orlando,FL,Out-of-Network
+P1310,Provider_0311,Physician,Pediatrics,Seattle,WA,In-Network
+P1311,Provider_0312,Physician,Pediatrics,Durham,NC,In-Network
+P1312,Provider_0313,Specialist Center,Cardiology,Norfolk,VA,In-Network
+P1313,Provider_0314,Clinic,Dermatology,Raleigh,NC,Out-of-Network
+P1314,Provider_0315,Physician,Cardiology,Atlanta,GA,In-Network
+P1315,Provider_0316,Specialist Center,Pediatrics,Tacoma,WA,In-Network
+P1316,Provider_0317,Specialist Center,Dermatology,Tempe,AZ,Out-of-Network
+P1317,Provider_0318,Clinic,Cardiology,Rochester,NY,In-Network
+P1318,Provider_0319,Clinic,Dermatology,Tacoma,WA,In-Network
+P1319,Provider_0320,Clinic,Neurology,Augusta,GA,In-Network
+P1320,Provider_0321,Hospital,Pediatrics,Mesa,AZ,Out-of-Network
+P1321,Provider_0322,Physician,Emergency Medicine,Aurora,IL,In-Network
+P1322,Provider_0323,Specialist Center,Cardiology,Orlando,FL,In-Network
+P1323,Provider_0324,Hospital,Pediatrics,San Diego,CA,Out-of-Network
+P1324,Provider_0325,Clinic,Orthopedics,Durham,NC,In-Network
+P1325,Provider_0326,Physician,Pediatrics,Charlotte,NC,In-Network
+P1326,Provider_0327,Physician,Pediatrics,San Jose,CA,In-Network
+P1327,Provider_0328,Hospital,Oncology,Arlington,VA,In-Network
+P1328,Provider_0329,Specialist Center,Neurology,Houston,TX,In-Network
+P1329,Provider_0330,Hospital,Dermatology,Miami,FL,In-Network
+P1330,Provider_0331,Physician,Pediatrics,Rochester,NY,In-Network
+P1331,Provider_0332,Specialist Center,Emergency Medicine,Tacoma,WA,In-Network
+P1332,Provider_0333,Hospital,Cardiology,Phoenix,AZ,In-Network
+P1333,Provider_0334,Hospital,Primary Care,Rochester,NY,In-Network
+P1334,Provider_0335,Clinic,Cardiology,Los Angeles,CA,In-Network
+P1335,Provider_0336,Physician,Oncology,Durham,NC,Out-of-Network
+P1336,Provider_0337,Clinic,Cardiology,Phoenix,AZ,In-Network
+P1337,Provider_0338,Clinic,Orthopedics,Tacoma,WA,In-Network
+P1338,Provider_0339,Specialist Center,Primary Care,Mesa,AZ,In-Network
+P1339,Provider_0340,Specialist Center,Primary Care,Phoenix,AZ,In-Network
+P1340,Provider_0341,Physician,Dermatology,Norfolk,VA,In-Network
+P1341,Provider_0342,Specialist Center,Neurology,Mesa,AZ,In-Network
+P1342,Provider_0343,Physician,Oncology,Schaumburg,IL,In-Network
+P1343,Provider_0344,Specialist Center,Neurology,New York,NY,In-Network
+P1344,Provider_0345,Clinic,Primary Care,Norfolk,VA,In-Network
+P1345,Provider_0346,Physician,Pediatrics,Seattle,WA,In-Network
+P1346,Provider_0347,Clinic,Oncology,Augusta,GA,In-Network
+P1347,Provider_0348,Specialist Center,Neurology,Los Angeles,CA,In-Network
+P1348,Provider_0349,Clinic,Orthopedics,Los Angeles,CA,In-Network
+P1349,Provider_0350,Specialist Center,Primary Care,New York,NY,In-Network
+P1350,Provider_0351,Hospital,Primary Care,Richmond,VA,In-Network
+P1351,Provider_0352,Clinic,Oncology,Augusta,GA,In-Network
+P1352,Provider_0353,Physician,Primary Care,Aurora,IL,In-Network
+P1353,Provider_0354,Clinic,Dermatology,Richmond,VA,In-Network
+P1354,Provider_0355,Clinic,Emergency Medicine,New York,NY,In-Network
+P1355,Provider_0356,Physician,Primary Care,Raleigh,NC,Out-of-Network
+P1356,Provider_0357,Physician,Emergency Medicine,Tacoma,WA,In-Network
+P1357,Provider_0358,Hospital,Orthopedics,Atlanta,GA,Out-of-Network
+P1358,Provider_0359,Specialist Center,Emergency Medicine,Miami,FL,In-Network
+P1359,Provider_0360,Specialist Center,Orthopedics,Houston,TX,In-Network
+P1360,Provider_0361,Physician,Oncology,Austin,TX,In-Network
+P1361,Provider_0362,Clinic,Primary Care,Augusta,GA,In-Network
+P1362,Provider_0363,Specialist Center,Neurology,Charlotte,NC,In-Network
+P1363,Provider_0364,Physician,Emergency Medicine,Charlotte,NC,In-Network
+P1364,Provider_0365,Physician,Dermatology,Chicago,IL,In-Network
+P1365,Provider_0366,Hospital,Cardiology,Seattle,WA,In-Network
+P1366,Provider_0367,Clinic,Emergency Medicine,Tacoma,WA,In-Network
+P1367,Provider_0368,Hospital,Oncology,Norfolk,VA,In-Network
+P1368,Provider_0369,Hospital,Neurology,Austin,TX,In-Network
+P1369,Provider_0370,Clinic,Orthopedics,Richmond,VA,Out-of-Network
+P1370,Provider_0371,Physician,Cardiology,Rochester,NY,In-Network
+P1371,Provider_0372,Clinic,Neurology,Phoenix,AZ,In-Network
+P1372,Provider_0373,Hospital,Emergency Medicine,Savannah,GA,Out-of-Network
+P1373,Provider_0374,Hospital,Emergency Medicine,Seattle,WA,In-Network
+P1374,Provider_0375,Clinic,Neurology,Arlington,VA,In-Network
+P1375,Provider_0376,Hospital,Primary Care,Savannah,GA,In-Network
+P1376,Provider_0377,Physician,Dermatology,Charlotte,NC,Out-of-Network
+P1377,Provider_0378,Physician,Oncology,Richmond,VA,Out-of-Network
+P1378,Provider_0379,Clinic,Oncology,Arlington,VA,In-Network
+P1379,Provider_0380,Clinic,Orthopedics,Durham,NC,In-Network
+P1380,Provider_0381,Physician,Pediatrics,Savannah,GA,In-Network
+P1381,Provider_0382,Specialist Center,Emergency Medicine,Augusta,GA,Out-of-Network
+P1382,Provider_0383,Specialist Center,Pediatrics,Raleigh,NC,In-Network
+P1383,Provider_0384,Specialist Center,Pediatrics,Richmond,VA,Out-of-Network
+P1384,Provider_0385,Clinic,Oncology,Raleigh,NC,In-Network
+P1385,Provider_0386,Physician,Dermatology,San Jose,CA,Out-of-Network
+P1386,Provider_0387,Physician,Dermatology,Spokane,WA,In-Network
+P1387,Provider_0388,Physician,Orthopedics,San Jose,CA,In-Network
+P1388,Provider_0389,Physician,Orthopedics,Rochester,NY,In-Network
+P1389,Provider_0390,Clinic,Pediatrics,Durham,NC,In-Network
+P1390,Provider_0391,Physician,Cardiology,Arlington,VA,In-Network
+P1391,Provider_0392,Physician,Pediatrics,Phoenix,AZ,Out-of-Network
+P1392,Provider_0393,Hospital,Oncology,Atlanta,GA,Out-of-Network
+P1393,Provider_0394,Hospital,Cardiology,Savannah,GA,In-Network
+P1394,Provider_0395,Hospital,Orthopedics,Phoenix,AZ,In-Network
+P1395,Provider_0396,Hospital,Primary Care,Austin,TX,In-Network
+P1396,Provider_0397,Clinic,Neurology,Tampa,FL,In-Network
+P1397,Provider_0398,Specialist Center,Cardiology,Tacoma,WA,In-Network
+P1398,Provider_0399,Hospital,Dermatology,Los Angeles,CA,In-Network
+P1399,Provider_0400,Hospital,Orthopedics,Phoenix,AZ,In-Network
+P1400,Provider_0401,Hospital,Emergency Medicine,Los Angeles,CA,In-Network
+P1401,Provider_0402,Clinic,Cardiology,Buffalo,NY,In-Network
+P1402,Provider_0403,Specialist Center,Pediatrics,Arlington,VA,In-Network
+P1403,Provider_0404,Physician,Cardiology,Arlington,VA,In-Network
+P1404,Provider_0405,Hospital,Cardiology,Atlanta,GA,In-Network
+P1405,Provider_0406,Specialist Center,Emergency Medicine,Savannah,GA,In-Network
+P1406,Provider_0407,Physician,Cardiology,Austin,TX,Out-of-Network
+P1407,Provider_0408,Hospital,Oncology,Dallas,TX,In-Network
+P1408,Provider_0409,Clinic,Neurology,San Jose,CA,Out-of-Network
+P1409,Provider_0410,Clinic,Emergency Medicine,San Jose,CA,In-Network
+P1410,Provider_0411,Clinic,Oncology,New York,NY,In-Network
+P1411,Provider_0412,Physician,Neurology,New York,NY,In-Network
+P1412,Provider_0413,Clinic,Emergency Medicine,Rochester,NY,Out-of-Network
+P1413,Provider_0414,Specialist Center,Pediatrics,Arlington,VA,Out-of-Network
+P1414,Provider_0415,Physician,Primary Care,Richmond,VA,In-Network
+P1415,Provider_0416,Clinic,Oncology,San Jose,CA,In-Network
+P1416,Provider_0417,Specialist Center,Primary Care,Aurora,IL,In-Network
+P1417,Provider_0418,Specialist Center,Oncology,Charlotte,NC,Out-of-Network
+P1418,Provider_0419,Hospital,Orthopedics,Houston,TX,In-Network
+P1419,Provider_0420,Hospital,Orthopedics,San Diego,CA,Out-of-Network
+P1420,Provider_0421,Specialist Center,Cardiology,Austin,TX,In-Network
+P1421,Provider_0422,Hospital,Primary Care,Augusta,GA,In-Network
+P1422,Provider_0423,Hospital,Cardiology,Savannah,GA,In-Network
+P1423,Provider_0424,Physician,Neurology,Schaumburg,IL,In-Network
+P1424,Provider_0425,Clinic,Cardiology,Rochester,NY,In-Network
+P1425,Provider_0426,Physician,Oncology,Arlington,VA,Out-of-Network
+P1426,Provider_0427,Physician,Oncology,Tampa,FL,Out-of-Network
+P1427,Provider_0428,Hospital,Cardiology,Augusta,GA,In-Network
+P1428,Provider_0429,Clinic,Neurology,Miami,FL,In-Network
+P1429,Provider_0430,Physician,Oncology,San Jose,CA,In-Network
+P1430,Provider_0431,Physician,Neurology,San Diego,CA,In-Network
+P1431,Provider_0432,Physician,Orthopedics,San Jose,CA,Out-of-Network
+P1432,Provider_0433,Physician,Orthopedics,Savannah,GA,In-Network
+P1433,Provider_0434,Clinic,Primary Care,New York,NY,In-Network
+P1434,Provider_0435,Hospital,Orthopedics,Buffalo,NY,In-Network
+P1435,Provider_0436,Specialist Center,Neurology,San Jose,CA,In-Network
+P1436,Provider_0437,Hospital,Cardiology,Buffalo,NY,In-Network
+P1437,Provider_0438,Specialist Center,Pediatrics,Phoenix,AZ,In-Network
+P1438,Provider_0439,Physician,Oncology,Los Angeles,CA,In-Network
+P1439,Provider_0440,Specialist Center,Cardiology,Richmond,VA,In-Network
+P1440,Provider_0441,Clinic,Oncology,San Diego,CA,In-Network
+P1441,Provider_0442,Clinic,Primary Care,Savannah,GA,In-Network
+P1442,Provider_0443,Physician,Cardiology,Aurora,IL,In-Network
+P1443,Provider_0444,Clinic,Cardiology,Richmond,VA,In-Network
+P1444,Provider_0445,Physician,Emergency Medicine,Savannah,GA,In-Network
+P1445,Provider_0446,Specialist Center,Cardiology,Charlotte,NC,In-Network
+P1446,Provider_0447,Hospital,Primary Care,Los Angeles,CA,In-Network
+P1447,Provider_0448,Hospital,Cardiology,Houston,TX,In-Network
+P1448,Provider_0449,Specialist Center,Oncology,San Jose,CA,In-Network
+P1449,Provider_0450,Hospital,Pediatrics,Los Angeles,CA,In-Network
+P1450,Provider_0451,Physician,Cardiology,Dallas,TX,In-Network
+P1451,Provider_0452,Specialist Center,Primary Care,New York,NY,Out-of-Network
+P1452,Provider_0453,Physician,Primary Care,Tempe,AZ,In-Network
+P1453,Provider_0454,Hospital,Cardiology,Seattle,WA,In-Network
+P1454,Provider_0455,Physician,Primary Care,Norfolk,VA,In-Network
+P1455,Provider_0456,Clinic,Dermatology,Durham,NC,Out-of-Network
+P1456,Provider_0457,Hospital,Orthopedics,Mesa,AZ,In-Network
+P1457,Provider_0458,Clinic,Neurology,Tacoma,WA,Out-of-Network
+P1458,Provider_0459,Clinic,Primary Care,Savannah,GA,In-Network
+P1459,Provider_0460,Specialist Center,Emergency Medicine,San Jose,CA,In-Network
+P1460,Provider_0461,Specialist Center,Dermatology,Richmond,VA,In-Network
+P1461,Provider_0462,Physician,Dermatology,Buffalo,NY,In-Network
+P1462,Provider_0463,Physician,Pediatrics,Tempe,AZ,Out-of-Network
+P1463,Provider_0464,Hospital,Orthopedics,Dallas,TX,In-Network
+P1464,Provider_0465,Physician,Oncology,Savannah,GA,In-Network
+P1465,Provider_0466,Physician,Orthopedics,Schaumburg,IL,Out-of-Network
+P1466,Provider_0467,Specialist Center,Pediatrics,Tacoma,WA,In-Network
+P1467,Provider_0468,Specialist Center,Neurology,Buffalo,NY,In-Network
+P1468,Provider_0469,Clinic,Orthopedics,Schaumburg,IL,In-Network
+P1469,Provider_0470,Physician,Cardiology,Orlando,FL,In-Network
+P1470,Provider_0471,Specialist Center,Primary Care,Tampa,FL,In-Network
+P1471,Provider_0472,Hospital,Cardiology,Augusta,GA,In-Network
+P1472,Provider_0473,Physician,Dermatology,Mesa,AZ,Out-of-Network
+P1473,Provider_0474,Hospital,Cardiology,New York,NY,Out-of-Network
+P1474,Provider_0475,Clinic,Dermatology,Seattle,WA,In-Network
+P1475,Provider_0476,Clinic,Cardiology,New York,NY,In-Network
+P1476,Provider_0477,Specialist Center,Dermatology,Houston,TX,In-Network
+P1477,Provider_0478,Specialist Center,Orthopedics,Mesa,AZ,Out-of-Network
+P1478,Provider_0479,Clinic,Oncology,Miami,FL,Out-of-Network
+P1479,Provider_0480,Hospital,Dermatology,Arlington,VA,In-Network
+P1480,Provider_0481,Clinic,Neurology,New York,NY,In-Network
+P1481,Provider_0482,Clinic,Primary Care,Dallas,TX,In-Network
+P1482,Provider_0483,Specialist Center,Orthopedics,Tacoma,WA,In-Network
+P1483,Provider_0484,Physician,Neurology,Orlando,FL,In-Network
+P1484,Provider_0485,Specialist Center,Emergency Medicine,Raleigh,NC,In-Network
+P1485,Provider_0486,Specialist Center,Cardiology,Tacoma,WA,In-Network
+P1486,Provider_0487,Hospital,Pediatrics,Charlotte,NC,In-Network
+P1487,Provider_0488,Clinic,Pediatrics,Arlington,VA,In-Network
+P1488,Provider_0489,Physician,Dermatology,Norfolk,VA,In-Network
+P1489,Provider_0490,Physician,Cardiology,Miami,FL,In-Network
+P1490,Provider_0491,Specialist Center,Dermatology,Augusta,GA,In-Network
+P1491,Provider_0492,Specialist Center,Oncology,Phoenix,AZ,Out-of-Network
+P1492,Provider_0493,Clinic,Neurology,Richmond,VA,Out-of-Network
+P1493,Provider_0494,Hospital,Primary Care,Augusta,GA,In-Network
+P1494,Provider_0495,Clinic,Dermatology,New York,NY,In-Network
+P1495,Provider_0496,Physician,Neurology,Houston,TX,In-Network
+P1496,Provider_0497,Hospital,Orthopedics,Atlanta,GA,In-Network
+P1497,Provider_0498,Specialist Center,Oncology,Raleigh,NC,In-Network
+P1498,Provider_0499,Specialist Center,Pediatrics,Phoenix,AZ,In-Network
+P1499,Provider_0500,Physician,Cardiology,San Jose,CA,In-Network

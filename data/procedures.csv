@@ -1,0 +1,22 @@
+procedure_id,procedure_code,procedure_name,procedure_category
+PR001,99201,Office Visit Procedure 99201,Office Visit
+PR002,99202,Office Visit Procedure 99202,Office Visit
+PR003,99203,Office Visit Procedure 99203,Office Visit
+PR004,99204,Office Visit Procedure 99204,Office Visit
+PR005,99205,Office Visit Procedure 99205,Office Visit
+PR006,71046,Imaging Procedure 71046,Imaging
+PR007,74177,Imaging Procedure 74177,Imaging
+PR008,70450,Imaging Procedure 70450,Imaging
+PR009,70551,Imaging Procedure 70551,Imaging
+PR010,27447,Surgery Procedure 27447,Surgery
+PR011,29881,Surgery Procedure 29881,Surgery
+PR012,47562,Surgery Procedure 47562,Surgery
+PR013,27130,Surgery Procedure 27130,Surgery
+PR014,80053,Lab Procedure 80053,Lab
+PR015,85025,Lab Procedure 85025,Lab
+PR016,83036,Lab Procedure 83036,Lab
+PR017,84443,Lab Procedure 84443,Lab
+PR018,99381,Preventive Procedure 99381,Preventive
+PR019,99385,Preventive Procedure 99385,Preventive
+PR020,99391,Preventive Procedure 99391,Preventive
+PR021,99401,Preventive Procedure 99401,Preventive
